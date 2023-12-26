@@ -7,8 +7,8 @@ Aprendiendo a programar
 Llevo trabajando en análisis de datos más de 10 años
 
 * 🌍  Entre Sevilla y Girona
-* 🖥️  Puedes ver mi CV en [Mi Web](http://pmontalvo.me)
-* ✉️  Puedes contactarme en [pablo.rodriguez@tajamar365.com](mailto:pablo.rodriguez@tajamar365.com)
+* 🖥️  
+* ✉️  
 * 🧠  Estoy aprendiendo Python
 * 🤝  Cualquier pequeña colaboración open source es bienvenida
 
