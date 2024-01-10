@@ -1,4 +1,4 @@
-Qué tal? https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif Mi nombre es Alice
+Qué tal? Mi nombre es Alice
 ================================================================================================================================================
 
 Aprendiendo a programar
