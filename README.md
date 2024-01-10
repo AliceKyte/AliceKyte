@@ -1,4 +1,4 @@
-Qué tal? [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif)Mi nombre es Alice
+Qué tal?(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif)Mi nombre es Alice
 ================================================================================================================================================
 
 Aprendiendo a programar
