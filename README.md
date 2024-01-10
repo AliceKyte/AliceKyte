@@ -1,4 +1,5 @@
-![](https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif) Mi nombre es Alice
+![](https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif) 
+<a Mi nombre es Alice /></a>
 ================================================================================================================================================
 
 Aprendiendo a programar
