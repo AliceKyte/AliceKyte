@@ -1,5 +1,4 @@
-Qué tal? ![](https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif)
-Mi nombre es Alice
+Qué tal? ![](https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif)) Mi nombre es Alice
 ================================================================================================================================================
 
 Aprendiendo a programar
