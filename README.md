@@ -35,9 +35,6 @@ src="https://img.shields.io/twitch/status/alicekytelers?logo=twitchsx&style=for-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AliceKyte"><img src="https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical" alt="Alice Kytelers's GitHub stats" /></a>
-<a href="https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=vue-dark&show"><img src="https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical" alt="PabloRodriguezMontalvo's GitHub stats" /></a>
-
-
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=AliceKyte&theme=vue-dark&hidee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&theme=radical&locale=es&custom_title=Used%20%Languages" alt="Top Languages" /></a>
 
