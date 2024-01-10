@@ -40,6 +40,4 @@ src="https://img.shields.io/twitch/status/alicekytelers?logo=twitchsx&style=for-
 
 
 
-<a href="https://github.com/PabloRodriguezMontalvo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRodriguezMontalvo&theme=radical&locale=es&custom_title=Used%20%Languages" alt="Top Languages" /></a>
-
 
