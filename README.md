@@ -34,10 +34,10 @@ src="https://img.shields.io/twitch/status/alicekytelers?logo=twitchsx&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical" alt="Alice Kytelers's GitHub stats" /></a>
+<a ![AliceKyte's Stats](https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical&show_icons=true&hide_border=false&count_private=true) /></a>
 
 
-![AliceKyte's Stats](https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=AliceKyte&theme=vue-dark&hidee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&theme=radical&locale=es&custom_title=Used%20%Languages" alt="Top Languages" /></a>
 
 
