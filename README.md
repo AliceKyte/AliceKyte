@@ -34,11 +34,11 @@ src="https://img.shields.io/twitch/status/alicekytelers?logo=twitchsx&style=for-
 
 <b>My GitHub Stats</b>
 
-![AliceKyte's Stats]()
+![AliceKyte's Stats](https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
 ![AliceKyte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-<a href="https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical&show_icons=true&hide_border=false&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Alice Kyteler's GitHub stats" /></a>
+
 
 <a href="https://github.com/PabloRodriguezMontalvo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRodriguezMontalvo&theme=radical&locale=es&custom_title=Used%20%Languages" alt="Top Languages" /></a>
 
