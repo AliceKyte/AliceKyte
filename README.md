@@ -9,7 +9,7 @@ Llevo trabajando en análisis de datos más de 10 años
 * 🌍  Entre Sevilla y Girona
 * 🖥️  
 * ✉️  
-* 🧠  Estoy aprendiendo C++ y Python 
+* 🧠  Estoy aprendiendo C++ y Python
 * 🤝  Cualquier pequeña colaboración open source es bienvenida
 
 <a href="https://www.twitch.tv/alicekytelers" target="_blank" rel="noreferrer"><img
