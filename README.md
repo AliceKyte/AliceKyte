@@ -12,8 +12,6 @@ Llevo trabajando en análisis de datos más de 10 años
 * 🧠  Estoy aprendiendo C, C++, Python
 * 🤝  Cualquier pequeña colaboración es bienvenida
 
-<a href="https://www.twitch.tv/alicekytelers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/alicekytelers?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
