@@ -30,7 +30,6 @@ Llevo trabajando en análisis de datos más de 10 años
 
 ![AliceKyte's Stats](https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-![AliceKyte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 
 
