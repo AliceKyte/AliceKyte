@@ -32,3 +32,8 @@ Llevo trabajando en análisis de datos más de 10 años
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&langs_count=6)](https://github.com/AliceKyte/github-readme-stats)
 
+
+
+
+Gracias a: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md
+
