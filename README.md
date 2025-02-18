@@ -28,7 +28,7 @@ Llevo trabajando en análisis de datos más de 10 años
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AliceKyte"><img src="https://github-readme-stats.vercel.app/api?username=AliceKyte&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Verónica Palma's GitHub stats" /></a>
+![Verónica's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=Gradiente_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&layout=compact)](https://github.com/AliceKyte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&langs_count=6)](https://github.com/AliceKyte/github-readme-stats)
 
