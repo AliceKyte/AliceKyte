@@ -29,7 +29,7 @@ Llevo trabajando en análisis de datos más de 10 años
 
 <b>My GitHub Stats</b>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicekyte&show_icons=true&locale=en&layout=compact" alt="alicekyte" /></p>-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicekyte&show_icons=true&locale=en&layout=compact" alt="alicekyte" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicekyte&show_icons=true&locale=en" alt="alicekyte" /></p>
 
