@@ -7,7 +7,7 @@ Aprendiendo a programar
 Llevo trabajando en análisis de datos más de 10 años
 
 * 🌍  Entre Sevilla y Girona
-* 🧠  Aprendiendo C, C++, Python
+* 🧠  Aprendiendo C, C++, Python 
 
 ### Skills
 
