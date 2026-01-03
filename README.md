@@ -35,10 +35,10 @@ Llevo trabajando en análisis de datos más de 10 años
 
 Resumen de mi actividad en esta plataforma
 
-<a href="https://github.com/15Galan">
-    <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
+<a href="https://github.com/AliceKyte">
+    <img src="https://github-trophies.vercel.app/?username=AliceKyte&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
     <br>
-    <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
+    <img src="https://github-trophies.vercel.app/?username=AliceKyte&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
 </a>
 
 
