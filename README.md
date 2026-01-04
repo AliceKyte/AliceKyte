@@ -20,5 +20,10 @@
 ### Gracias por visitar mi perfil!
 [![](https://visitcountpro.netlify.app/api?id=AliceKyte&pretty=true)](https://visitcount.itsvg.in)
 
-
+# Github Stats:
+<p align="center">
+  <a href="https://github.com/AliceKyte">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=AliceKyte&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
 
