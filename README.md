@@ -20,21 +20,34 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 Estadísticas:
-![](https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=panda&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AliceKyte&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 Trofeos GitHub 
-![](https://github-profile-trophy.vercel.app/?username=AliceKyte&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=AliceKyte&theme=monokai&no-frame=true&no-bg=false&margin-w=4)-->
+<img src="https://github-profile-trophy.vercel.app/?username=AliceKyte&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+
+# 📊 Estadísticas:
+<!--<div align="center">
+  <img src= "https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=panda&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src= "https://nirzak-streak-stats.vercel.app/?user=AliceKyte&theme=panda&hide_border=false"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliceKyte&theme=panda&hide&hide_border=true"/>
+</div>
+-->
+![](https://github-readme-stats.vercel.app/api?username=AliceKyte&theme=panda&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AliceKyte&theme=panda&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKyte&theme=panda&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliceKyte&theme=panda&hide&hide_border=true")<br/>
+
+<div align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliceKyte&custom_title=Alice's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=2B2B2B&color=FF75B5&line=00FFFF&point=FFC0CB&area_color=FF75B5&title_color=FF75B5&area=true" alt="GitHub Activity Graph" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AliceKyte&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Alice's GitHub stats">-->
+
+
+
 
 ### Gracias por visitar mi perfil!
 [![](https://visitcountpro.netlify.app/api?id=AliceKyte&pretty=true)](https://visitcount.itsvg.in)
 
-# Github Stats:
-<p align="center">
-  <a href="https://github.com/AliceKyte">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=AliceKyte&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
-</p>
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 
