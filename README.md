@@ -1,4 +1,4 @@
-![](https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif)  <br> Mi nombre es Verónica
+![](https://github.com/AliceKyte/AliceKyte/blob/main/vista-de-una-taza-de-cafe-animada-en-3d.jpg) <br> Mi nombre es Verónica
 =========================================================
 # 💫 Sobre mi:
 🌍 Entre Sevilla y Girona<br>🔭 Trabajando en mejorar mis conocimientos de Python<br>🌱 Aprendiendo principalmente Java <br>👯 Busco colaborar en proyectos que resuelvan problemas reales<br>🤝 Busco ayuda con optimizar código sin perder cordura<br>⚡ ¿Quién necesita dormir si un puntero te puede quitar el sueño?
